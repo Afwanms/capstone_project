@@ -59,4 +59,4 @@ Dashboard web menampilkan data sensor dan status postur tubuh secara real-time m
 ## 🎬 Demo
 Video demo berikut menunjukkan bagaimana sistem wearable ini bekerja saat mendeteksi perubahan postur tubuh pengguna:
 
-(https://drive.google.com/file/d/1vkNKpDS4_NzD8-E6LzYlcf4fbCO2faaf/view?usp=drive_link)
+[![Video Demo](asset/img/Thumbnail.png)](https://drive.google.com/file/d/1vkNKpDS4_NzD8-E6LzYlcf4fbCO2faaf/view?usp=drive_link)
