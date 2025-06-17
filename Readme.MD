@@ -30,3 +30,4 @@ Wearable device ini melakukan deteksi postur tubuh ketika sedang mengangkat beba
 Model 1D-CNN telah dilatih sebelumnya untuk mengenali pola gerakan berdasarkan urutan data dari sensor IMU. Model ini diimplementasikan dalam ESP32 dan digunakan untuk mengklasifikasikan postur tubuh pengguna ke dalam kategori yang telah ditentukan (tegak, bungkuk, miring).
 
 ## Demo
+<video controls src="asset/img/Demo_Alat.mp4" title="Demo Alat"></video>
