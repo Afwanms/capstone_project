@@ -1,6 +1,6 @@
 # Wearable Device untuk Mendeteksi Postur Tubuh saat Mengangkat Beban
 <p align="center">
-  <img src="asset/img/Body_Posture.jpeg" width="400" />
+  <img src="asset/img/Body_Posture.jpeg" width="500" />
 </p>
 
 
@@ -30,11 +30,19 @@ Wearable device ini berfungsi untuk mendeteksi postur tubuh saat mengangkat beba
 ### Berikut merupakan arsitektur dari sistem ini:
 
 ### 1. Blok Diagram
-![Gambar Blok Diagram](asset/img/blok_diagram.png)
+<p align="center">
+  <img src="asset/img/blok_diagram.png" alt="Blok Diagram"/>
+</p>
+
 ### 2. Wiring Diagram
-![Gambar Wiring Diagram](asset/img/wiring_diagram.png)
+<p align="center">
+  <img src="asset/img/wiring_diagram.png" alt="Wiring Diagram"/>
+</p>
+
 ### 3. Perangkat Wearable
-<img src="asset/img/wearable_device.jpg" alt="Perangkat Wearable" width="250"/>
+<p align="center">
+    <img src="asset/img/wearable_device.jpg" alt="Perangkat Wearable" width="250"/>
+</p>
 
 ## Algoritma yang Digunakan
 ### 1D-CNN
@@ -45,4 +53,4 @@ Model 1D-CNN telah dilatih sebelumnya untuk mengenali pola gerakan berdasarkan u
 ## Demo
 Video demo berikut menunjukkan bagaimana sistem wearable ini bekerja saat mendeteksi perubahan postur tubuh pengguna:
 
-<video controls src="asset/img/Demo_Alat.mp4" title="Demo Alat"></video>
+(https://github.com/assets/img/Demo_Alat.mp4)
