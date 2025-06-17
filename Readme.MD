@@ -53,4 +53,4 @@ Model 1D-CNN telah dilatih sebelumnya untuk mengenali pola gerakan berdasarkan u
 ## Demo
 Video demo berikut menunjukkan bagaimana sistem wearable ini bekerja saat mendeteksi perubahan postur tubuh pengguna:
 
-(https://github.com/assets/img/Demo_Alat.mp4)
+(https://drive.google.com/file/d/1vkNKpDS4_NzD8-E6LzYlcf4fbCO2faaf/view?usp=drive_link)
